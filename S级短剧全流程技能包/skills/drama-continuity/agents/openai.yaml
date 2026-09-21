@@ -1,0 +1,4 @@
+interface:
+  display_name: "连续性与事实台账"
+  short_description: "核对人物规则数值时间知情范围资产版本与伏笔并追踪改稿对全剧的影响"
+  default_prompt: "使用 $drama-continuity 完成本次指定的短剧创作任务，按项目规格输出实际成果与核对证据。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "场景与完整正文"
+  short_description: "把分集大纲写成可表演的场次动作人物对白内心独白与具有后果的完整事件"
+  default_prompt: "使用 $drama-scenes 完成本次指定的短剧创作任务，按项目规格输出实际成果与核对证据。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "连续因果与伏笔图"
+  short_description: "连接全剧主线支线人物选择与伏笔首现揭示兑现并同步每一集的剧情变化"
+  default_prompt: "使用 $drama-causality-map 完成本次指定的短剧创作任务，按项目规格输出实际成果与核对证据。"

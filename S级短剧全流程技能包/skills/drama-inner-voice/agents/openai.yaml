@@ -1,0 +1,4 @@
+interface:
+  display_name: "内心独白与心声"
+  short_description: "设计人物对白内心独白心声旁白系统音并管理观众与角色之间的知情边界"
+  default_prompt: "使用 $drama-inner-voice 完成本次指定的短剧创作任务，按项目规格输出实际成果与核对证据。"

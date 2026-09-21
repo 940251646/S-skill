@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "project_name": "",
+  "mode": "full",
+  "genre_profile": "project-selected",
+  "format": "vertical-ai-drama",
+  "language": "zh-CN",
+  "script_format": "dialogue-inner-voice-with-essential-actions",
+  "total_episodes": 120,
+  "target_episode_seconds": 65,
+  "runtime_budget": {
+    "max_total_seconds": 8400,
+    "default_total_seconds": 8055,
+    "opening_min_seconds": 120,
+    "opening_max_seconds": 180,
+    "opening_target_seconds": 150,
+    "later_min_seconds": 60,
+    "later_max_seconds": 90,
+    "later_target_seconds": 65
+  },
+  "opening_three": {
+    "draft_characters_per_episode": 900,
+    "max_scenes": 3,
+    "preferred_core_characters": [2, 3],
+    "max_core_characters": 4,
+    "min_effective_beats": 3,
+    "checkpoints_seconds": [3, 5, 30, 90],
+    "constraints_mode": "adaptable-defaults"
+  },
+  "delivery_scope": ["complete-literary-script", "review-evidence", "production-readiness", "asset-variants", "scene-asset-bindings", "asset-change-log"],
+  "hard_constraints": [],
+  "assumptions": [],
+  "deviations": [],
+  "canon_version": 1
+}

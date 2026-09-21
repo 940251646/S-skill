@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI制作与资产版本"
+  short_description: "规划人物服装妆发场景道具的剧情变体逐场绑定关键镜头与素材修订和资源预算"
+  default_prompt: "使用 $drama-ai-production 完成本次指定的短剧创作任务，按项目规格输出实际成果与核对证据。"

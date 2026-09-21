@@ -1,0 +1,4 @@
+interface:
+  display_name: "情绪拉扯与爽点"
+  short_description: "建立期待压力主动破局真实结果与情感余波并检查跨集回报的力度和差异"
+  default_prompt: "使用 $drama-payoff 完成本次指定的短剧创作任务，按项目规格输出实际成果与核对证据。"

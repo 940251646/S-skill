@@ -1,0 +1,4 @@
+interface:
+  display_name: "审稿修订与交付"
+  short_description: "按具体集场证据审稿修订核查缺集结局与承诺回收并交付完整剧本和配套资料"
+  default_prompt: "使用 $drama-review-delivery 完成本次指定的短剧创作任务，按项目规格输出实际成果与核对证据。"

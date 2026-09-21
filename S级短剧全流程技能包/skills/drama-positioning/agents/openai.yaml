@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目定位"
+  short_description: "确定短剧观众情绪承诺一句话故事差异化与篇幅资源边界并形成可执行定位"
+  default_prompt: "使用 $drama-positioning 完成本次指定的短剧创作任务，按项目规格输出实际成果与核对证据。"

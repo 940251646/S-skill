@@ -1,0 +1,4 @@
+interface:
+  display_name: "分集设计"
+  short_description: "逐集安排目标阻碍行动状态变化信息反转与追看动力并保持整季连续推进"
+  default_prompt: "使用 $drama-episodes 完成本次指定的短剧创作任务，按项目规格输出实际成果与核对证据。"
